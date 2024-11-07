@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stephenexcel
-- 👀 I’m interested in Python Programming...
-- 🌱 I’m currently learning Python programming for Data science...
+- Hi, My name is Stephen Godwin
+  Wellcome to my Repository
+-  I’m currently learning Python programming for Data science @ Arewa Data Science Academy
   
 
 <!---
